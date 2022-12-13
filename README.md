@@ -1,0 +1,2 @@
+# svelte
+Template svelte Webpack
